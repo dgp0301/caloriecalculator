@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server side of calorie counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgp0301/caloriecalculator.git"
+  },
+  "author": "dgp0301",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgp0301/caloriecalculator/issues"
+  },
+  "homepage": "https://github.com/dgp0301/caloriecalculator#readme"
+}
